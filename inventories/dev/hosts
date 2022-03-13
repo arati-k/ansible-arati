@@ -1,4 +1,4 @@
 [all:vars]
 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
 [all]
-3.111.198.159	
+3.110.30.142
